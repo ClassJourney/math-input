@@ -27,6 +27,7 @@
     "redux": "^3.5.0"
   },
   "devDependencies": {
+    "cross-env": "^5.1.6",
     "exports-loader": "^0.6.3",
     "jquery": "^2.2.3",
     "jsdom": "^8.4.0",
